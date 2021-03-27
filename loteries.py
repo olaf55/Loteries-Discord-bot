@@ -4,6 +4,8 @@ import random
 import time
 import asyncio
 
+#A bot made by Olaf455
+
 #BLANK CHARACTER >᲼᲼᲼᲼᲼᲼<
 
 client = commands.Bot(command_prefix = "l!")
