@@ -64,4 +64,4 @@ async def loterie(ctx):
     await ctx.send(f"**Numbers:** ```{liczba1} {liczba2} {liczba3} {liczba4} {liczba5} {liczba6}```")
     await ctx.send("**---------------------------------------**")
 
-client.run("ODI1MzQwMzgwNzg2MzI3NTYy.YF8gIA.fn_Ylzxcw5gPXQdq1eMq5XrxnRk")
+client.run("TOKEN")
